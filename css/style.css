@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+#nav{
+    background:#92ffcc !important;
+}
+body{
+    background:#dfdfdf;
+}
+main{
+    height: 70vh;
+}
+footer{
+    background: #92ffcc;
+    height: 30vh;
+}
+#tituloRedes{
+    text-align: center;
+    color: black;
+    padding-top: 15px;
+    font-size: 1.2em;
+    font-family: roboto,sans-serif;
+    font-weight: 400;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#img{
+    width: 30vw;
+    height: auto;
+}
+
+.imgsflex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.img{
+    width: 80px;
+    height: auto;
+    margin-left: 12px;
+}
+
+/*forms */
+#body{
+    background:linear-gradient(to left, #92ffcc, #6de0ab);
+}
+
+.container2{
+    width:65vw ;
+    height:auto;
+    background-color: #292929;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:1px,solid #92ffcc;
+}
+
+.div__text{
+    margin-top: 30px;
+    color: #92ffcc;
+    font-size: 0.6em;
+    font-weight: 300;
+    font-family: roboto, sans-serif;
+}
+/*formulario*/
+.input__form{
+    width: 500px;
+    height: 50px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 3px solid #92ffcc;
+    background: transparent;
+    color: #fff;
+    font-weight: bold;
+    font-family: roboto;
+    font-weight: 600;
+}
+
+.form__btnsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input__btn{
+    width: 200px;
+    height: 50px;
+    background:linear-gradient(to left, #92ffcc, #53f3eb);
+    border:none;
+    color: rgb(43, 43, 43);
+    font-size: 1em;
+    font-weight: 600;
+    margin: auto;
+    margin-bottom: 50px;
+    font-family: roboto;
+}
+
+.input__btn:hover{
+    background-color: #3c91c2;
+}
+
+.contenedorperfil{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.flexxContainer{
+    background-color: #292929;
+    width: 50% ;
+    height: auto;
+    margin: auto;
+}
+
+.colorText{
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    font-family: roboto;
+    font-size: 1.5em;
+}
+.divredonda{
+    background-color: #7c7c7c;
+    border-radius: 50%;
+    height: 50%;
+    width: 25%;
+    padding: 0;
+    margin: 0;
+}
