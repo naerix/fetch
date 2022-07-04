@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 10900,
+      "id": 1,
+      "title": "Camiseta Paris Saint Germain",
+      "thumbnailUrl": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw170585e1/products/NI_CV7903-411/NI_CV7903-411-1.JPG"
+    },
+    {
+      "precio": 8000,
+      "id": 2,
+      "title": "Camiseta Fc Barcelona",
+      "thumbnailUrl": "https://todosobrecamisetas.com/wp-content/uploads/camiseta-nike-fc-barcelona-2021-22-3.jpg"
+    },
+    {
+      "precio": 7000,
+      "id": 3,
+      "title": "Camiseta Juventus",
+      "thumbnailUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/72b621c3001445ed9f16ab1f00cfc960_9366/Camiseta_Local_Juventus_Blanco_EI9900_01_laydown.jpg"
+    },
+    {
+      "precio": 7500,
+      "id": 4,
+      "title": "Camiseta FC Bayern München",
+      "thumbnailUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6ca097fdc87e4087a0b8ab1a0116075c_9366/Camiseta_Local_FC_Bayern_Rojo_FI6201_01_laydown.jpg"
+    },
+    {
+      "precio": 8900,
+      "id": 5,
+      "title": "Camiseta Real Madrid",
+      "thumbnailUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/23d0c93d901842379ab8ab4a012819ab_9366/Camiseta_Local_Real_Madrid_20-21_Blanco_FQ7486_01_laydown.jpg"
+    },
+    {
+      "precio": 5300,
+      "id": 6,
+      "title": "Camiseta Arsenal",
+      "thumbnailUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1df6811cd9624417bb92ab7400d693ff_9366/Camiseta_Local_Arsenal_Granate_FH7816_01_laydown.jpg"
+    }
+  ]

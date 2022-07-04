@@ -1,16 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
+
+
 #nav{
-    background:#92ffcc !important;
+    background:#e74545 !important;
+    width:100%;
 }
 body{
     background:#dfdfdf;
+    overflow-x: hidden;
 }
 main{
     height: 70vh;
 }
 footer{
-    background: #92ffcc;
+    background: #e74545;
     height: 30vh;
 }
 #tituloRedes{
@@ -50,7 +54,7 @@ footer{
 
 /*forms */
 #body{
-    background:linear-gradient(to left, #92ffcc, #6de0ab);
+    background:linear-gradient(to left, #ff5b5b, #ff4c4c);
 }
 
 .container2{
@@ -66,12 +70,12 @@ footer{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border:1px,solid #92ffcc;
+    border:1px,solid #ff5b5b;
 }
 
 .div__text{
     margin-top: 30px;
-    color: #92ffcc;
+    color: #ff5b5b;
     font-size: 0.6em;
     font-weight: 300;
     font-family: roboto, sans-serif;
@@ -82,7 +86,7 @@ footer{
     height: 50px;
     margin: 10px 0;
     border: none;
-    border-bottom: 3px solid #92ffcc;
+    border-bottom: 3px solid #ff5b5b;
     background: transparent;
     color: #fff;
     font-weight: bold;
@@ -99,7 +103,7 @@ footer{
 .input__btn{
     width: 200px;
     height: 50px;
-    background:linear-gradient(to left, #92ffcc, #53f3eb);
+    background:linear-gradient(to left, #f53b3b, #fa1515);
     border:none;
     color: rgb(43, 43, 43);
     font-size: 1em;
@@ -110,7 +114,7 @@ footer{
 }
 
 .input__btn:hover{
-    background-color: #3c91c2;
+    background-color: #cf3636;
 }
 
 .contenedorperfil{

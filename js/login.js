@@ -30,7 +30,7 @@ function alerta2(){
         incon: 'sucess',
     }).then((result)=>{
         if(result.isConfirmed){
-            window.location="perfildeusuario.html"
+            window.location="tienda.html"
         }
     })
 }
@@ -46,13 +46,3 @@ function alertainorrecta(){
 }
 
 
-function CargarJson(){
-    
-    fetch('../data/users.json')
-    .then(response => response.json())
-    .then( data => {
-        console.log(data.nombre)
-    })
-    .catch( () => console.log('intente denuevo'))
-    }
-CargarJson();
